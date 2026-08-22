@@ -1,3 +1,2 @@
-sam1:masuk123
-sam2:masuk123
-sam3:masuk123
+ston01:masuk123
+kingston02:masuk123
